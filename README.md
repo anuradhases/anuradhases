@@ -15,8 +15,8 @@ Hi! I'm Anuradha. Former chemical engineer switching into data.
 ### Tools:
 * Language: SQL, Python
 
-* Databases: PostgreSQL
+* Database: PostgreSQL
 
-* Programs: Visual Studio Code
+* Program: Visual Studio Code
 
 * Data Vis: PowerBI, Tableau
