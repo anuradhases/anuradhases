@@ -1,4 +1,4 @@
-Hi! I'm Anuradha. Former chemical engineer switching into data.
+Hi! I'm Anuradha. Former chemical engineer switching into data. Led and implemented an initiative to consolidate 7 databases into one with SQL, Python, Excel and PowerBI as a Senior Data Analyst.
 * Agile project management with Jira
 * Data mapping with Miro
 * Translating business needs into technical requirements
