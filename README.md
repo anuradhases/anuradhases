@@ -10,7 +10,7 @@ Hi! I'm Anuradha. Former chemical engineer switching into data. Led and implemen
 
 👯 I’m looking to collaborate on projects working with ocean datasets, more specifically whale datasets, using Python and SQL!
 
-⚡ Fun fact: I am ocean activist, and have dedicated my profile picture to my favorite animal, and the apex predator of the ocean: the orca! 
+⚡ Fun fact: I am an ocean activist, and have dedicated my profile picture to my favorite animal, and the apex predator of the ocean: the orca! 
 
 ### Tools:
 * Language: SQL, Python
