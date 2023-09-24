@@ -16,7 +16,7 @@ Hi! I'm Anuradha. Former chemical engineer switching into data. Led and implemen
 ### Tools:
 * Language: SQL, Python
 
-* Database: PostgreSQL
+* Database: PostgreSQL, Snowflake
 
 * Program: Visual Studio Code, Anaconda
 
