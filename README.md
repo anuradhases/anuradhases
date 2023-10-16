@@ -5,8 +5,6 @@ Hi! I'm Anuradha. Former chemical engineer switching into data. Led and implemen
 * Translating business needs into technical requirements
 * Developing dashboards with PowerBI and Tableau.
 
-🔭 I’m currently working on a Housing and Salary Analysis project using Snowflake and Tableau.
-
 🌱 I most recently finished the Analyze Data with Python course on Codecademy.
 
 👯 I’m looking to collaborate on projects working with ocean datasets, more specifically whale datasets, using Python and SQL!
