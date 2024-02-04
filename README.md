@@ -1,9 +1,9 @@
-Hi! I'm Anuradha. Former chemical engineer switching into data. Led and implemented an initiative to consolidate 7 databases into one with SQL, Python, Excel and PowerBI as a Senior Data Analyst.
+Hi! I'm Anuradha. Former chemical engineer switching into product. Directed implementaion to consolidate 7 large complex datasets into 1 relational database with SQL, Python, Excel and PowerBI as a Product Owner.
 * Agile project management with Jira
-* Data mapping with Miro
+* Database scheme with Miro
 * Querying data with SQL
-* Translating business needs into technical requirements
-* Developing dashboards with PowerBI and Tableau.
+* Translating business requirements into technical specs
+* Developing dashboards with PowerBI and Tableau
 
 🌱 I most recently finished the Boston Housing and Salary Analysis project.
 
