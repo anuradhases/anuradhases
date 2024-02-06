@@ -1,4 +1,4 @@
-Hi! I'm Anuradha. Former chemical engineer switching into product. Directed implementaion to consolidate 7 large complex datasets into 1 relational database with SQL, Python, Excel and PowerBI as a Product Owner.
+Hi! I'm Anuradha. Former chemical engineer switching into career focused on driving business decisions and strategy with data. Directed implementaion to consolidate 7 large complex datasets into 1 relational database with SQL, Python, Excel and PowerBI as a Product Owner.
 * Agile project management with Jira
 * Database scheme with Miro
 * Querying data with SQL
