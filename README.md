@@ -1,6 +1,6 @@
-Hi! I'm Anuradha. Former chemical engineer switching into a career focused on driving business decisions and strategy with data. Directed implementation to consolidate 7 large complex datasets into 1 relational database with SQL, Python, Excel and PowerBI and led and united a cross functional remote data team to save 800K as a Sr Data Analyst, Product Operations.
+Hi! I'm Anuradha. Former chemical engineer switching into a career focused on driving business decisions and strategy with data. My biggest accomplishment was directing the implementation to consolidate 7 large complex datasets into 1 relational database with SQL, Python, Excel and PowerBI while leading and uniting a cross functional remote data team to save $800K as a Senior Data Analyst, Product Operations.
 * Agile project management with Jira
-* Database schema with Miro
+* Database schema and ERD with Miro
 * Querying data with SQL
 * Translating business requirements into technical specs
 * Developing dashboards with PowerBI and Tableau
