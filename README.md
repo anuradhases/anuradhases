@@ -19,3 +19,5 @@ Hi! I'm Anuradha. Former chemical engineer switching into a career focused on dr
 * Program: Visual Studio Code, Anaconda
 
 * Data Vis: PowerBI, Tableau
+
+* Machine Learning: Scikit Learn
